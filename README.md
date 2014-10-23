@@ -1,4 +1,4 @@
 Wispi
 =====
 
-Mini Karma Router for Pentester lho
+Mini Karma Router for Pentester
