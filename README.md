@@ -46,14 +46,14 @@ Further Reading
 Overview
 --------
 
-![admin page](http://1.bp.blogspot.com/-576G4TjAv2A/VH15bR02LhI/AAAAAAAAAxk/8bXe5OlJrs0/s320/index.jpg)
+<center>![admin page](http://1.bp.blogspot.com/-576G4TjAv2A/VH15bR02LhI/AAAAAAAAAxk/8bXe5OlJrs0/s320/index.jpg)
 
 ![upgrade page](http://1.bp.blogspot.com/-RhVwFolsQQA/VH15YsVkGEI/AAAAAAAAAxU/s0S9Xhn-G3Q/s320/flashing.jpg)
 
 ![encoder decoder](http://1.bp.blogspot.com/-NulG2w62puA/VH15ZtEhJPI/AAAAAAAAAxc/7cmsW8vLK_0/s320/encdec.jpg)
 
-![phising page](http://4.bp.blogspot.com/-2LBZdnY-qZ8/VH15g7FI-6I/AAAAAAAAAxs/tTuMf7nugh0/s320/phising.jpg)
+![phising page](http://4.bp.blogspot.com/-2LBZdnY-qZ8/VH15g7FI-6I/AAAAAAAAAxs/tTuMf7nugh0/s320/phising.jpg)</center>
 
 [smrx86]: https://twitter.com/smrx86
-[White Paper][]: http://www.slideshare.net/idsecconf/wispi-mini-karma-router-for-pentester-rama-tri-nanda-41084689
-[Presentation][]: http://www.slideshare.net/idsecconf/wispi-mini-karma-router-for-pentester-rama-tri-nanda-41084757
+[White Paper]: http://www.slideshare.net/idsecconf/wispi-mini-karma-router-for-pentester-rama-tri-nanda-41084689
+[Presentation]: http://www.slideshare.net/idsecconf/wispi-mini-karma-router-for-pentester-rama-tri-nanda-41084757
