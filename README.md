@@ -64,5 +64,5 @@ Overview
 <center>pict4. phising page</center>
 
 [smrx86]: https://twitter.com/smrx86
-[White Paper]: http://www.slideshare.net/idsecconf/wispi-mini-karma-router-for-pentester-rama-tri-nanda-41084689
+[White Paper]: http://adf.ly/1IMoZf
 [Presentation]: http://www.slideshare.net/idsecconf/wispi-mini-karma-router-for-pentester-rama-tri-nanda-41084757
